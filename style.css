@@ -1,20 +1,24 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-image: url("cropped-the-last-of-us-part-ii-preview-bigger-bolder-lovingly-constructed.jpg");
 }
 
 h1 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 5px red;
 }
 
 h2 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     letter-spacing: 2px;
+    text-shadow: 2px 2px 5px blue;
+    margin-top: -1px;
+    margin-bottom: -3px;
 }
 
 #header {
-    background-color: rgb(255, 255, 255);
+    background-image: url("20206717215828_1.jpg");
     font-family: sans-serif;
     margin-left: 90px;
     margin-right: 80px;
@@ -22,29 +26,56 @@ h2 {
 }
 
 #sinopsis {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(224, 222, 222);
     font-family: sans-serif;
     text-align: justify;
-    margin-left: 90px;
-    margin-right: 80px;   
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 1px;
 }
 
 #cuerpo {
-    background-color: rgb(255, 255, 255);
-    font-family: sans-serif
+    background-color: rgb(224, 222, 222);
+    font-family: sans-serif;
+    margin-left: 380px;
+    margin-right: 380px;
+    padding: 10px;
+}
+
+#premios {
+    background-color: rgb(224, 222, 222);
+    font-family: sans-serif;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 10px;
 }
 
 #tabla {
-    background-color: rgb(255, 255, 255);
-    font-family: sans-serif
+    background-color: rgb(224, 222, 222);
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 410px;
+    margin-right: 410px;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+#titulo-tabla {
+    font-family: serif;
+    text-decoration: underline;
+    line-height: 25px;
+    font-size: 18px;
 }
 
 #form {
-    background-color: rgb(255, 255, 255);
-    font-family: sans-serif
+    background-color: rgb(224, 222, 222);
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 10px;
 }
 
 #pie-pagina {
-    background-color: rgb(255, 255, 255);
-    font-family: sans-serif
+    background-color: rgb(224, 222, 222);
+    font-family: sans-serif;
 }
