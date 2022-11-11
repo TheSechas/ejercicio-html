@@ -1,5 +1,5 @@
 body {
-    background-image: url("cropped-the-last-of-us-part-ii-preview-bigger-bolder-lovingly-constructed.jpg");
+    background-color: rgb(231, 231, 231);
 }
 
 h1 {
@@ -20,6 +20,10 @@ h2 {
 h4 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    
 }
 
 #header {
